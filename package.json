@@ -1,0 +1,14 @@
+{
+  "name": "emailexercise",
+  "version": "1.0.0",
+  "description": "NodeJS exercise for asking an email",
+  "main": "eMail.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "FAGR",
+  "license": "ISC",
+  "dependencies": {
+    "nodemailer": "^6.5.0"
+  }
+}
